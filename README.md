@@ -4,13 +4,13 @@
 
 Flic buttons (https://flic.io), provide a quick and simple possibility to trigger any kind of action at a push of a button. The button connects to the Flic hub or to an android phone via low-energy Bluetooth. Pairing one or more Flic buttons with SIGNL4 can enhance your daily operations with an extension to your mobile team in the field or on the shop floor.
  
-![SIGNL4 Alert](file://flic-button-signl4.png)
+![SIGNL4 Alert](flic-button-signl4.png)
 
 ## How it Works
 
 All it takes to pair the Flic button and SIGNL4 is the Flic button, SIGNL4 and an Android phone with the Flic app (or optionally the Flic hub).
 
-![Flic Button](file://flic-button.jpg)
+![Flic Button](flic-button.jpg)
 
 The setup is super easy and you can integrate and get your first alert in less than 15 minutes.
 
@@ -58,7 +58,7 @@ If not already available, download the SIGNL4 app for Android (https://play.goog
 
 Get the Flic Android app and pair your Flic button with the app.
 
-![Flic Pair](file://flic-button-pair.png)
+![Flic Pair](flic-button-pair.png)
 
 Alternatively you can also use the Flic Hub: https://www.youtube.com/watch?v=YpfHPP9VQ8M
 
@@ -66,7 +66,7 @@ Alternatively you can also use the Flic Hub: https://www.youtube.com/watch?v=Ypf
 
 Now you can configure what shall happen if someone presses (or long-click, or double-click) the Flic button.
 
-![Flic Config](file://flic-button-config-1.png) ![Flic Config](file://flic-button-config-2.png)
+![Flic Config](flic-button-config-1.png) ![Flic Config](flic-button-config-2.png)
 
 In the Flic app, select Internet Request and then choose HTTP Post.
 
@@ -81,4 +81,3 @@ This is it.
 ### Test it
 
 Now you can press the button and the SIGNL4 HTTP request is triggered. You will then receive the notification on your phone.
-
